@@ -1,0 +1,142 @@
+WEBSITE SECURITY SCAN REPORT
+========================================
+
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: MISSING
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Aug 17 08:36:18 2026 GMT
+
+==================================================
+Website: https://uptoskill.com
+Scan Time: 2026-06-20 12:02:49.185324
+==================================================
+Content-Security-Policy: MISSING
+Strict-Transport-Security: MISSING
+X-Frame-Options: MISSING
+X-Content-Type-Options: MISSING
+Referrer-Policy: MISSING
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Sep 13 00:41:21 2026 GMT
+
+==================================================
+Website: https://uptoskills.com
+Scan Time: 2026-06-20 12:12:42.540188
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: FOUND
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Jul 23 06:44:25 2026 GMT
+
+==================================================
+Website: https://uptoskills.com
+Scan Time: 2026-06-20 12:20:22.391093
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: FOUND
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Jul 23 06:44:25 2026 GMT
+
+==================================================
+Website: https://www.youtube.com/
+Scan Time: 2026-06-20 12:21:57.199719
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: MISSING
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Aug 17 08:36:27 2026 GMT
+
+==================================================
+Website: https://www.youtube.com/
+Scan Time: 2026-06-20 12:25:21.636111
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: MISSING
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Aug 17 08:36:27 2026 GMT
+
+==================================================
+Website: https://uptoskills.com
+Scan Time: 2026-06-20 12:26:53.221886
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: FOUND
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) CLOSED
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Jul 23 06:44:25 2026 GMT
+
+==================================================
+Website: https://www.youtube.com/
+Scan Time: 2026-06-20 12:27:45.981764
+==================================================
+Content-Security-Policy: FOUND
+Strict-Transport-Security: FOUND
+X-Frame-Options: FOUND
+X-Content-Type-Options: FOUND
+Referrer-Policy: MISSING
+Port 21 (FTP) CLOSED
+Port 22 (SSH) CLOSED
+Port 25 (SMTP) CLOSED
+Port 80 (HTTP) OPEN
+Port 443 (HTTPS) OPEN
+Port 3306 (MySQL) CLOSED
+SSL Certificate Found
+Expires: Aug 17 08:36:27 2026 GMT
